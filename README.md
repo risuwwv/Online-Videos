@@ -62,8 +62,9 @@ Short list of videos and online courses about machine learning, algorithms and p
 [*Counting Sort, Radix Sort, Lower Bounds for Sorting* (Erik Demaine, MIT, 2013)]
 (https://www.youtube.com/watch?v=Nz1KZXbghj8&spfreload=1)
 
+<!---
 ### Talks
-
+-->
 
 ## Parallel Computing 
 
